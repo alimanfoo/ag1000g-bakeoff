@@ -1,4 +1,4 @@
-## Challenge 1: Variant calling in an Anopheles Gambaie cross
+## Challenge 1: SNP and indel variant calling in an _Anopheles gambiae_ cross
 
 ### Introduction
 
