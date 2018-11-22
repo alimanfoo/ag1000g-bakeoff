@@ -37,7 +37,7 @@ The folder must contain a metadata file called `submission.yml`, containing the 
 
  - title: Title of the approach, perhaps a tool and version number.
  - institution: Short name of submitting institution
- - file: Path to a hosted multisample VCF 4.2 file or gVCF file.
+ - file: Path to a hosted multi-sample VCF 4.2 file, containing variant calls for all individuals within the cross.
  - submitter: Name and email address of submitter
  - contributors: Name and email address of contributors
  - code: (url to code used to generate results). Ideally a github commit of a pipeline specification with environment definitions.
