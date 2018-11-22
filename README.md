@@ -1,6 +1,6 @@
 # ag1000g-bakeoff
 
-This repository defines variant calling challenges using sequence data from the [_Anopheles Gambiae_ 1000 Genomes Project (Ag1000G)](https://www.malariagen.net/projects/ag1000g).
+This repository defines variant calling challenges using sequence data from the [_Anopheles gambiae_ 1000 Genomes Project (Ag1000G)](https://www.malariagen.net/projects/ag1000g).
 
 Details of challenges can be found in the `challenges` subdirectory. 
 Submissions are made via a pull request to this repo in the `submissions` directory of the relevant challenge.
