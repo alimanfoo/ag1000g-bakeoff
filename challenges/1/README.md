@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This challenge is to create as accurate a call set as possible for an experimental cross of the major malaria vector _Anopheles Gambiae_.
+This challenge is to create as accurate a call set as possible for an experimental cross of the major malaria vector _Anopheles gambiae_.
 The father of the cross is from a highly inbred colony from Kisumu, Kenya- first put into colony in the 1970s. 
 As a result we expect the father to be highly homozygous.
 The mother is from a much more recently colonised line (Ghana) and therefore expected to have substantially higher levels of variation. 
