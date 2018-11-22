@@ -20,5 +20,5 @@ Alistair Miles [@alimanfoo](https://github.com/alimanfoo)
 
 Nick Harding [@hardingnj](https://github.com/hardingnj)
 
-MalariaGEN, University of Oxford, UK.
+MalariaGEN Resource Centre, Wellcome Sanger Institute, University of Oxford.
 
