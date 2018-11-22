@@ -13,7 +13,7 @@ Samples are 22 whole genome sequences from an experimental cross. Included in th
 [samples.csv](samples.csv) describes the sample ID, the ENA accession IDs, and the role (mother/father/progeny) of each sample.
 Data are provided as `bam` files for convenience, but we anticipate most groups will wish to perform realignment and recalibration.
 
-Samples were sequenced using an Illumina Hi-seq. All samples have a median coverage of at least 16x.
+Samples were sequenced using an Illumina HiSeq. All samples have a median coverage of at least 16x.
 
 ### Rules
 
