@@ -21,7 +21,7 @@ Produce a set of variant calls against the AgamP4 reference genome available fro
 Both SNPs and indels can be called, although submissions with SNPs or indels only are also welcome.
 Calls against chromosomes 2R and 3R should be submitted for evaluation as detailed below.
 It is permitted to use pedigree information and data from chromosomes 2L, 3L and X to calibrate models for variant calling and/or filtering.
-However the submitted calls should not leverage pedigree information.
+However the submitted calls in chromosomes 2R and 3R should not leverage pedigree information.
 
 ### Evaluation
 
