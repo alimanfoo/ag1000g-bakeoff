@@ -20,7 +20,7 @@ Samples were sequenced using an Illumina HiSeq. All samples have a median covera
 Produce a set of variant calls against the AgamP4 reference genome available from [Vectorbase](https://www.vectorbase.org/downloadinfo/anopheles-gambiae-pestchromosomesagamp4fagz).
 Both SNPs and indels can be called, although submissions with SNPs or indels only are also welcome.
 Calls against chromosomes 2R and 3R should be submitted for evaluation as detailed below.
-It is permitted to use pedigree information to calibrate models against chromosomes 2L, 3L and X.
+It is permitted to use pedigree information and data from chromosomes 2L, 3L and X to calibrate models for variant calling and/or filtering.
 However the submitted calls should not leverage pedigree information.
 
 ### Evaluation
