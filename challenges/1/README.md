@@ -32,7 +32,7 @@ Evaluation will be based on Mendelian consistency and parsimony of inheritance.
 ### Submission
 
 Submissions are made by submitting a pull request against the master branch of this repository.
-A new directory should be made in the submissions subdirectory, following the convention {tool}-{institution}: for example unifiedgenotyper-bdioxford.
+A new directory should be made in the submissions subdirectory, following the convention {tool}-{institution}: for example "unifiedgenotyper-bdioxford".
 The folder must contain a metadata file called `submission.yml`, containing the following keys.
 
  - title: Title of the approach, perhaps a tool and version number.
