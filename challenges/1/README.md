@@ -26,7 +26,7 @@ However the submitted calls should not leverage pedigree information.
 ### Evaluation
 
 Callsets will be explored to identify consistent causes of error, to assist algorithmic improvement.
-The precise method of evaluation will not be published until entries for this challenge are complete. 
+The precise method of evaluation has not yet been finalised, and we welcome comments and discussion via [this issue](https://github.com/malariagen/ag1000g-bakeoff/issues/5). 
 Evaluation will be based on Mendelian consistency and parsimony of inheritance.
 
 ### Submission
