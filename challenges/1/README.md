@@ -27,7 +27,7 @@ However the submitted calls should not leverage pedigree information.
 
 Callsets will be explored to identify consistent causes of error, to assist algorithmic improvement.
 The precise method of evaluation will not be published until entries for this challenge are complete. 
-Although it will be based on mendelian consistency and parsimony of inheritance.
+Evaluation will be based on Mendelian consistency and parsimony of inheritance.
 
 ### Submission
 
