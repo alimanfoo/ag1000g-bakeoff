@@ -10,7 +10,7 @@ The mother is from a much more recently colonised line (Ghana) and therefore exp
 ### Samples
 
 Samples are 22 whole genome sequences from an experimental cross. Included in the set are the 2 parents and 20 progeny.
-`samples.csv` describes the sample ID, the ENA accession IDs, and the role (mother/father/progeny) of each sample.
+[samples.csv](samples.csv) describes the sample ID, the ENA accession IDs, and the role (mother/father/progeny) of each sample.
 Data are provided as `bam` files for convenience, but we anticipate most groups will wish to perform realignment and recalibration.
 
 Samples were sequenced using an Illumina Hi-seq. All samples have a median coverage of at least 16x.
