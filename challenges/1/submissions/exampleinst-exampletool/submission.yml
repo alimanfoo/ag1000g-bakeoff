@@ -1,0 +1,8 @@
+title: unified-genotyper-accessibility-mask
+institution: 'BDI, university of Oxford'
+file: ftp://ftpserver.place/path/to/callset.vcf.gz
+submitter: Nick Harding <nicholas.harding@bdi.ox.ac.uk>
+contributors: ['Nick Harding <nicholas.harding@bdi.ox.ac.uk>', 'Jane Smith <jsmith@bdi.ox.ac.uk>']
+code: https://github.com/path/to/repo/commit/commitid
+method: 'Reads aligned to reference genome using BWAmem. Unified genotyper used in discovery mode, post calling an accessibility mask was applied to filter the final callset'
+notes: 'none'
